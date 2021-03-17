@@ -1,0 +1,26 @@
+.c0{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+}
+    .c1{
+        display: flex;
+        flex: 70%;
+    
+    }
+        .c4>ul{
+            list-style-type: none;
+            display: flex;
+            justify-content: space-evenly;
+            margin: 0;
+        }
+    .c2{
+            display: flex;
+            flex: 30%;
+            justify-content: space-evenly;
+    }
+        .c4{
+            flex: 80%;
+        }
